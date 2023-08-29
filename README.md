@@ -7,6 +7,10 @@ This is a **random password generator** of **15 characters** consiting of the fo
 
 It is a project given by **Scrimba** on their **Front end career path** online bootcamp. 
 
+> Link to deployed site
+
+https://15passwordgen.netlify.app
+
 ## What I learnt
 
 - I learnt how to use the line break feature to separate heading in `HTML`
